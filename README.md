@@ -90,5 +90,5 @@ plus these public references (start here when a module says "go deeper"):
 - Lilian Weng — https://lilianweng.github.io · Chip Huyen — https://huyenchip.com/blog/
 - Hugging Face blog — https://huggingface.co/blog
 
-> Case studies are anonymized: no customer, company-internal system or infrastructure identifiers.
+> Case studies are anonymized
 > Numbers are kept where they carry the lesson.
